@@ -1,9 +1,13 @@
-# 🧮 Dart Calculator CLI
+<div align="center" text-align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dart%20Calculator%20CLI&reversal=false">
+
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+</div>
 
 A simple **console calculator in Dart**.
 It allows you to type full mathematical expressions and get the result immediately.
 
----
+</br>
 
 ## 🚀 How to run
 
@@ -25,7 +29,7 @@ It allows you to type full mathematical expressions and get the result immediate
    dart run
    ```
 
----
+</br>
 
 ## 💻 Example usage
 
@@ -45,15 +49,21 @@ Expression: exit
 See you late bro...
 ```
 
----
+</br>
 
 ## 🛠️ Technologies
 
 - [Dart](https://dart.dev/)
 - [math_expressions](https://pub.dev/packages/math_expressions)
 
----
+</br>
 
 ## 👨‍🎓 Author
 
 Project developed by **Bruno Magno** as an academic assignment.
+
+</br>
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
