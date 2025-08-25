@@ -1,0 +1,11 @@
+name: dart_calculator_cli
+description: A simple console calculator in Dart by Bruno Magno
+version: 1.0.0
+repository: https://github.com/brunoliratm/dart-calculator-cli
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  path: ^1.9.0
+  math_expressions: ^3.1.0
